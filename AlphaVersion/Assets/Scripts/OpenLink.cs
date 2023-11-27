@@ -5,6 +5,6 @@ using UnityEngine;
 public class OpenLink : MonoBehaviour
 {
     public void OpenChannel() {
-        Application.OpenURL("www.github.com");
+        Application.OpenURL("https://www.github.com/iS30/Alpha-Version-Submission/");
     }
 }
