@@ -1,0 +1,19 @@
+---------------------------------
+Group Members:
+-	Saud Alshahrani
+-	Patrick Pratt
+-	Fuad Owodunni
+---------------------------------
+
+Saud:
+- Setup the game scene(objects, background, collectables, obstacles, Canvas, UI Elements, UI Design)
+- Did most of the scripts, and linked them to their objects (when required).
+---------------------------------
+
+Patrick Pratt:
+- Did the objects random spawning function.
+---------------------------------
+
+Fuad Owodunni:
+- Made the first scene (The Main Menu).
+---------------------------------
